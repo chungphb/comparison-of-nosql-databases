@@ -3,21 +3,12 @@
 ## Citation
 
 ```
-@article{chen2019introduction,
-  title={An Introduction of NoSQL Databases based on their categories and application industries},
-  author={Chen, Jeang-Kuo and Lee, Wei-Zhe},
-  journal={algorithms},
-  volume={12},
-  number={5},
-  pages={106},
-  year={2019},
-  publisher={Multidisciplinary Digital Publishing Institute}
-}
+Chen, Jeang-Kuo, and Wei-Zhe Lee. "An Introduction of NoSQL Databases based on their categories and application industries." algorithms 12, no. 5 (2019): 106.
 ```
 
 ## Contributions
 
-* Introduces the basic characteristics of *15 categories of NoSQL database*.
+* Introduces the basic characteristics of ***15 categories of NoSQL database***.
 
   | No.  | Category                          | Characteristics                                              | Example                                 |
   | :--: | --------------------------------- | ------------------------------------------------------------ | --------------------------------------- |
@@ -37,16 +28,14 @@
   |  14  | Scientific and Specialized DBs    | Data suitable for scientific research or computing.          | BayesDB, GPUdb                          |
   |  15  | Unresolved and Uncategorized      | Data based on the data format of a specific database.        |                                         |
 
-* Analyzes *the characteristics of the data that each category of NoSQL database is suitable* for processing.
-* Proposes some *principles and key points* for reference to help enterprises *to find an appropriate NoSQL database*.
+* Analyzes ***the characteristics of the data that each category of NoSQL database is suitable*** for processing.
+* Proposes some ***principles and key points*** for reference to help enterprises ***to find an appropriate NoSQL database***.
   * Understands the current problems, goals, and challenges of the corporate operation database.
   * Decides to continue using the current RDB or change using a NoSQL database based on the needs of enterprise and their expertise.
   * If changing to use a NoSQL database, selects a suitable category of NoSQL databases based on the features and formats of corporate operating data.
   * When deciding which NoSQL database to choose, makes a decision according to the needs of the enterprise, the characteristics of each database, as well as the reputation and popularity of each database.
 * Illustrates three cases (3C shopping website, newspapers, and the US retail industry) to demonstrate how to choose a suitable NoSQL database.
 
-## Conclusions
-
-* The transaction data of the e-commerce industry often needs to be related, so the suitable NoSQL DB category is the wide column store.
-* The news materials of the news industry have semi-structured features, so the suitable NoSQL DB category is the document store.
-* The retailer data needs to be used by the recommendation system, so the suitable NoSQL DB category is the graph databases.
+  * The transaction data of the e-commerce industry often needs to be related, so the suitable NoSQL DB category is the wide column store.
+  * The news materials of the news industry have semi-structured features, so the suitable NoSQL DB category is the document store.
+  * The retailer data needs to be used by the recommendation system, so the suitable NoSQL DB category is the graph databases.
