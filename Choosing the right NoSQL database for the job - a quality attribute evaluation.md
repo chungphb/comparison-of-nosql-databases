@@ -40,13 +40,15 @@ Lourenço, João Ricardo, Bruno Cabral, Paulo Carreiro, Marco Vieira, and Jorge 
   | Write-Performance  | Good      | Great     | Good      | Mediocre | Good     | Mediocre | Great     |
 
 * Creates a survey of the literature on the evaluation of NoSQL databases from a historic perspective.
+  
   * There are ***4 clearly distinct periods*** of the evolution of NoSQL research:
-    1. ***Database type characterization*** (where NoSQL was in its infancy and researcher tried to categorize databases into different groups).
-    2. ***Performance evaluations***, with the advent of YCSB and a surge in NoSQL popularity.
-    3. ***Real-world scenarios*** and criticism to some ***interpretations of the CAP theorem***.
-    4. An even bigger focus on ***applicability*** and a reinvigorated focus on ***the validation of benchmarking software***.
+    * ***Database type characterization*** (where NoSQL was in its infancy and researcher tried to categorize databases into different groups).
+    * ***Performance evaluations***, with the advent of YCSB and a surge in NoSQL popularity.
+    * ***Real-world scenarios*** and criticism to some ***interpretations of the CAP theorem***.
+    * An even bigger focus on ***applicability*** and a reinvigorated focus on ***the validation of benchmarking software***.
   * There is not enough information to verify how suited each NoSQL database is in a specific scenario or system.
   * Each working system differs from another and all the necessary functionality and mechanisms highly affect the database choice.
+  
 * Identifies several future research directions towards the full coverage of software quality attributes in the evaluation of NoSQL databases.
   * There is a current need for a broad study of quality attributes in order to better understand the NoSQL ecosystem.
   * Research is currently ***lacking in terms of Reliability, Robustness, Durability and Maintainability***, with most work in literature focusing on raw performance.
