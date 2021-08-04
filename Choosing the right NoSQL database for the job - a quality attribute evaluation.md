@@ -3,7 +3,7 @@
 ## Citation
 
 ```
-Lourenço, João Ricardo, Bruno Cabral, Paulo Carreiro, Marco Vieira, and Jorge Bernardino. "Choosing the right NoSQL database for the job: a quality attribute evaluation." Journal of Big Data 2, no. 1 (2015): 1-26.
+Lourenço, J.R., Cabral, B., Carreiro, P., Vieira, M. and Bernardino, J., 2015. Choosing the right NoSQL database for the job: a quality attribute evaluation. Journal of Big Data, 2(1), pp.1-26.
 ```
 
 ## Contributions

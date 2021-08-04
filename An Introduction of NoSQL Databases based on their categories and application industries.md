@@ -3,7 +3,7 @@
 ## Citation
 
 ```
-Chen, Jeang-Kuo, and Wei-Zhe Lee. "An Introduction of NoSQL Databases based on their categories and application industries." algorithms 12, no. 5 (2019): 106.
+Chen, J.K. and Lee, W.Z., 2019. An Introduction of NoSQL Databases based on their categories and application industries. algorithms, 12(5), p.106.
 ```
 
 ## Contributions

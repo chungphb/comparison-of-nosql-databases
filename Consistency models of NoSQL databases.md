@@ -3,7 +3,7 @@
 ## Citation
 
 ```
-Miguel Diogo, Bruno Cabral, and Jorge Bernardino. "Consistency models of NoSQL databases." Future Internet 11, no. 2 (2019): 43.
+Diogo, M., Cabral, B. and Bernardino, J., 2019. Consistency models of NoSQL databases. Future Internet, 11(2), p.43.
 ```
 
 ## Contributions
