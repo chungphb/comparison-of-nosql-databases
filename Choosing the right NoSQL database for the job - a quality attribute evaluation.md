@@ -25,19 +25,19 @@ Lourenço, J.R., Cabral, B., Carreiro, P., Vieira, M. and Bernardino, J., 2015. 
 
   **Table 2.** *Summary table of different quality attributes studied for the selected NoSQL databases.*
 
-  |                    | Aerospike | Cassandra | Couchbase | CouchDB  | HBase    | MongoDB  | Voldemort |
-  | ------------------ | --------- | --------- | --------- | -------- | -------- | -------- | --------- |
-  | Availability       | Great     | Great     | Great     | Great    | Mediocre | Mediocre | Great     |
-  | Consistency        | Great     | Great     | Good      | Good     | Average  | Great    | Good      |
-  | Durability         | Mediocre  | Good      | Good      | Mediocre | Good     | Good     | Good      |
-  | Maintainability    | Good      | Average   | Good      | Good     | Mediocre | Average  | Mediocre  |
-  | Read-Performance   | Good      | Mediocre  | Great     | Average  | Mediocre | Great    | Good      |
-  | Recovery Time      | Great     | Bad       | Good      | Unknown  | Unknown  | Great    | Unknown   |
-  | Reliability        | Mediocre  | Good      | Mediocre  | Good     | Good     | Great    | Unknown   |
-  | Robustness         | Good      | Good      | Average   | Average  | Bad      | Average  | Unknown   |
-  | Scalability        | Great     | Great     | Great     | Mediocre | Great    | Mediocre | Good      |
-  | Stabilization Time | Bad       | Good      | Good      | Unknown  | Unknown  | Bad      | Unknown   |
-  | Write-Performance  | Good      | Great     | Good      | Mediocre | Good     | Mediocre | Great     |
+  |                        | Aerospike | Cassandra | Couchbase | CouchDB  | HBase    | MongoDB  | Voldemort |
+  | ---------------------- | --------- | --------- | --------- | -------- | -------- | -------- | --------- |
+  | **Availability**       | Great     | Great     | Great     | Great    | Mediocre | Mediocre | Great     |
+  | **Consistency**        | Great     | Great     | Good      | Good     | Average  | Great    | Good      |
+  | **Durability**         | Mediocre  | Good      | Good      | Mediocre | Good     | Good     | Good      |
+  | **Maintainability**    | Good      | Average   | Good      | Good     | Mediocre | Average  | Mediocre  |
+  | **Read-Performance**   | Good      | Mediocre  | Great     | Average  | Mediocre | Great    | Good      |
+  | **Recovery Time**      | Great     | Bad       | Good      | Unknown  | Unknown  | Great    | Unknown   |
+  | **Reliability**        | Mediocre  | Good      | Mediocre  | Good     | Good     | Great    | Unknown   |
+  | **Robustness**         | Good      | Good      | Average   | Average  | Bad      | Average  | Unknown   |
+  | **Scalability**        | Great     | Great     | Great     | Mediocre | Great    | Mediocre | Good      |
+  | **Stabilization Time** | Bad       | Good      | Good      | Unknown  | Unknown  | Bad      | Unknown   |
+  | **Write-Performance**  | Good      | Great     | Good      | Mediocre | Good     | Mediocre | Great     |
 
 * Creates a survey of the literature on the evaluation of NoSQL databases from a historic perspective.
   
