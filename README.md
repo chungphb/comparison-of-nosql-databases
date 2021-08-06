@@ -6,4 +6,5 @@
 | Consistency models of NoSQL databases                        | Miguel Diogo, Bruno Cabral, and Jorge Bernardino             | 2019 |
 | Experimental evaluation of NoSQL databases                   | Veronika Abramova, Jorge Bernardino, and Pedro Furtado       | 2014 |
 | NoSQL evaluation: A use case oriented survey                 | Robin Hecht, and Stefan Jablonski                            | 2011 |
+| Performance comparison between five NoSQL databases          | Enqing Tang , and Yushun Fan                                 | 2016 |
 
