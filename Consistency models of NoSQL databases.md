@@ -10,7 +10,7 @@ Diogo, M., Cabral, B. and Bernardino, J., 2019. Consistency models of NoSQL data
 
 Compares the consistency models provided by five of the most popular non-cloud NoSQL database systems: Redis, Cassandra, MongoDB, Neo4j, and OrientDB.
 
-* Summary
+* Result
 
   **Table 1.** *Consistency models comparison.*
 

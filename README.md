@@ -8,4 +8,5 @@
 | NoSQL evaluation: A use case oriented survey                 | Robin Hecht, and Stefan Jablonski                            | 2011 |
 | Performance comparison between five NoSQL databases          | Enqing Tang, and Yushun Fan                                  | 2016 |
 | SQL or NoSQL? Performance and scalability evaluation         | Veronika Abramova, Jorge Bernardino, and Pedro Furtado       | 2015 |
+| SQL, NewSQL, and NOSQL databases: a comparative survey       | Tariq N. Khasawneh, Mahmoud H. AL-Sahlee, and Ali A. Safia   | 2020 |
 

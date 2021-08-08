@@ -10,7 +10,7 @@ Tang, E. and Fan, Y., 2016, November. Performance comparison between five NoSQL 
 
 Compares the performance of 5 NoSQL databases (Redis, MongoDB, Couchbase, Cassandra, and HBase) through 2 experiments on a 4-node cluster.
 
-* Summary
+* Result
   * *Experiment 1:* Compares ***execution speed*** of the databases under certain conditions.
     * Data loading
       * Redis got the best performance.

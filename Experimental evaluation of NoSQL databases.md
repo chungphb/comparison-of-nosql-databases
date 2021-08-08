@@ -10,7 +10,7 @@ Abramova, V., Bernardino, J. and Furtado, P., 2014. Experimental evaluation of N
 
 Compares execution time of diverse requests for three types of NoSQL databases: Document Store, Column Family and Key-value Store, in order to better understand how performance of a database is affected by its type ***in a non-distributed environment***.
 
-* Summary
+* Result
   * Tarantool and Redis have the best result with extremely fast response times regardless of workloads.
   * Oracle NoSQL has the lowest performance on data loading.
   * OrientDB has the lowest performance on execution of a set of workloads.

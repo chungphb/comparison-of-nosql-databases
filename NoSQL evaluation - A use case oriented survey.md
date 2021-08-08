@@ -10,7 +10,7 @@ Hecht, R. and Jablonski, S., 2011, December. NoSQL evaluation: A use case orient
 
 Compares the advantages and disadvantages of 14 NoSQL databases in terms of ***query possibilities***, ***concurrency control***, ***partitioning***, ***replication*** and ***consistency***.
 
-* Summary
+* Result
 
   **Table 1.** *Query possibilities*
 
